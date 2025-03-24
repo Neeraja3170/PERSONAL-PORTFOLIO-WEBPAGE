@@ -54,3 +54,8 @@ A responsive single-page portfolio website built with HTML and CSS to showcase m
 This project is open-source and available under the MIT License.
 
 output:
+![Image](https://github.com/user-attachments/assets/5d7e4162-29b0-4175-8d14-4b243282fcbd)
+![Image](https://github.com/user-attachments/assets/8a59ffe2-5e66-4dcd-9481-338c07e8d938)
+![Image](https://github.com/user-attachments/assets/6d4d4ff0-5504-43ac-b9d1-af5e83b2d5aa)
+![Image](https://github.com/user-attachments/assets/3c53ede2-7cb9-489d-9dfa-a4a58a68af2d)
+![Image](https://github.com/user-attachments/assets/8d8b9e10-683b-49b1-ae98-46baac773661)
